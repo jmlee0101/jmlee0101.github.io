@@ -1,0 +1,28 @@
+{
+    "navItems" : [
+        { "title" : "About", "link" : "about"}
+        , { "title" : "Resume", "link" : "resume"}
+        , { "title" : "Portfolio", "link" : "portfolio"}
+        , { "title" : "Contact", "link" : "contact"}
+    ]
+    , "socialLinks" : {
+        "kakao": "#"
+        , "instagram": "#"
+        , "twitter": "#"
+        , "facebook": "#"
+    }
+    , "hero" : {
+        "title" : "jm's Blog for developer"
+        , "subtitle" : "아무말이나 하는 jm입니당~! 아무말이나 하는 jm입니당~! 아무말이나 하는 jm입니당~! 아무말이나 하는 jm입니당~! 아무말이나 하는 jm입니당~! 아무말이나 하는 jm입니당~! 아무말이나 하는 jm입니당~! "
+        , "cta1" : "View My Work"
+        , "cta2" : "Let's Connect"
+        , "image" : { 
+            "img" : "img/main.png", "alt" : "web developer jm"
+            }
+        , "stats" : [
+            {"number" : "5+", "label" : "Years Experience"}
+            , {"number" : "100+", "label" : "Projects Completed"}
+            , {"number" : "50+", "label" : "Happy Clients"}
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "descript" : "웹 개발 실력으로 멋진 온라인 경험을 만들어나가는 데 열정적인 개발자입니다."
+    , "aboutTitle" : "Java(Spring,Spring Boot),React,AWS 개발자"
+    , "aboutContent" : "저는 사용자에게 편리하고 즐거운 웹 경험을 제공하지 위해 코드를 짜고 디자인할거임"
+    , "name" : "Jeongmin Lee"
+    , "phone" : "+82 10 1111 1234"
+    , "age" : "28 Years"
+    , "email" : "email@gmail.com"
+    , "occupation" : "백수"
+    , "nationality" : "대한민국"
+    , "img" : "img/aa.jpg"
+    , "skills" : [
+        { "title" : "HTML, CSS", "scripts" : "html, css은 완벽 그자체...!", "level" : "99"}
+        , { "title" : "JavaScript", "scripts" : "JavaScript은 완벽 그자체...!", "level" : "99"}
+        , { "title" : "Java Servlet", "scripts" : "Java Servlet은 완벽 그자체...!", "level" : "99"}
+        , { "title" : "Spring", "scripts" : "html은 완벽 그자체...!", "level" : "99"}
+        , { "title" : "Spring Boot", "scripts" : "html은 완벽 그자체...!", "level" : "99"}
+        , { "title" : "React", "scripts" : "html은 완벽 그자체...!", "level" : "99"}
+        , { "title" : "Mobile", "scripts" : "html은 완벽 그자체...!", "level" : "99"}
+        , { "title" : "AWS", "scripts" : "html은 완벽 그자체...!", "level" : "99"}
+    ]
+}
